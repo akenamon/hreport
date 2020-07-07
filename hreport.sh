@@ -87,7 +87,7 @@ _main()
 	 
 	 	Cpu Model: $report_cpu_model
 	 
-	        Ram Total: $report_ram_total
+	        Ram Total: $report_ram_total GB
 	 
 	  	Partitions Scheme:	
 		"
