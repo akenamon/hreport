@@ -3,10 +3,10 @@
 	######################################################################### 
 	#	Script Name: hreport.sh                                         # 
 	#	Script Author: Vinicius Torino                                  #
-	#	Author's email: vinicius.torino                                 #
+	#	Author's email: vinicius.torino@protonmail.com                  #
 	#	Date of Creation: Tue Jul  7 14:04:22 -03 2020                  #
 	#	Short Dereportion: Generate brief report of host stats.         #
-	#	echo Usage: ./hreport.sh                                        #
+	#	Usage: ./hreport.sh                                             #
 	#########################################################################
 
 
